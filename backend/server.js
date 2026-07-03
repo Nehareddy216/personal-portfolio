@@ -28,7 +28,6 @@ const projectSchema = new mongoose.Schema({
   title: String,
   description: String,
   githubLink: String,
-  liveLink: String,
   image: String
 });
 
